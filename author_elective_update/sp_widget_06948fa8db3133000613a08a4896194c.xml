@@ -400,7 +400,7 @@
         <update_guid_history>54028bd7e10112109bea735a7d7782f7:-118823514</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Notes List">f268c3dbc3811210fc3cfa0ed4013197</sys_audit_delete>
+        <sys_audit_delete display_value="">f268c3dbc3811210fc3cfa0ed4013197</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-10 10:37:31</sys_created_on>
